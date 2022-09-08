@@ -16,5 +16,5 @@ We can start with these links to understand in a better way-
 
 Given all links will give us a brief and depth overview of Contour approximation, Edge Detector, ImageWarping, Image Processing etc.
 
-**Here, we are taking A4 paper as reference and any object which will be situated on the paper, we will get the measurement of those object. 
-**But the problem is, It is not generic and we can not say it will work for every image.
+**Here, we are taking A4 paper as reference and any object which will be situated on the paper, we will get the measurement of those object.** 
+**But the problem is, It is not generic and we can not say it will work for every image.**
